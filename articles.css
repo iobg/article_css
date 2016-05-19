@@ -1,0 +1,35 @@
+.a1 {background: red;
+        font-family: "Arial";
+        font-size: 15px;
+    	line-height:1.0;
+    	padding:5px;
+    	border:2px solid black;
+    	border-radius:10px;}
+.a2 {background: orange;
+        font-family: "Times New Roman";
+        font-size: 20px;
+    	line-height:1.5;
+    	padding:15px;
+    	border:2px solid black;
+    	border-radius:100px;}
+.a3 {background: yellow;
+        font-family: "Ubuntu";
+        font-size: 10px;
+    	line-height:3.0;
+    	padding:0;
+    	border:2px solid black;
+    	border-radius:50px;}
+.a4 {background: green;
+        font-family: "Arial";
+        font-size: 15px;
+    	line-height:1.0;
+    	padding:5px;
+    	border:2px solid black;
+    	border-radius:10px;}
+.a5 {background: blue;
+        font-family: "Arial";
+        font-size: 15px;
+    	line-height:1.0;
+    	padding:5px;
+    	border:2px solid black;
+    	border-radius:10px;}
